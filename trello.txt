@@ -1,0 +1,25 @@
+https://martinfowler.com/bliki/ReportingDatabase.html
+https://www.brentozar.com/training/think-like-sql-server-engine/
+http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf
+http://coding-geek.com/how-databases-work/
+https://www.brentozar.com/archive/2020/02/free-fundamentals-of-index-tuning-week-part-1-indexing-for-the-where-clause/
+https://www.brentozar.com/archive/2019/10/how-to-think-like-the-sql-server-engine-whats-a-key-lookup/
+TSQL: Contracts
+TSQL: Services / Service Broker
+https://en.wikipedia.org/wiki/SQL_Server_Integration_Services
+https://www.sqlservertutorial.net/getting-started/what-is-sql-server/
+TSQL : Queues
+redgate
+T SQL Merge
+T-SQL Transaction, Try Catch
+SQL NOLOCK (in Select)
+SQL Server Profiling
+SQL Server Indexes
+table variables, <ProductName>TableVariables.ATV_Integer
+
+
+
+
+
+
+
